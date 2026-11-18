@@ -1,5 +1,10 @@
 {
   "type": "data",
+  "tags": [
+    "data",
+    "document",
+    "email"
+  ],
   "example_prompts": [
     "Close October",
     "Match last month's receipts to QuickBooks and reconcile our Stripe payouts",

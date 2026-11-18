@@ -1,5 +1,10 @@
 {
   "type": "marketing",
+  "tags": [
+    "marketing",
+    "data",
+    "email"
+  ],
   "example_prompts": [
     "Plan Bloom Bakery's December content",
     "Do next month for Harbour Physio: 12 Instagram, 8 LinkedIn, 4 reels",

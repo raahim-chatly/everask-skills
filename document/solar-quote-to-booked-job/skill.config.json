@@ -1,5 +1,10 @@
 {
   "type": "document",
+  "tags": [
+    "document",
+    "data",
+    "email"
+  ],
   "example_prompts": [
     "Quote Jane Lee at 4 Elm Road, her intake form just came in",
     "Reply to my new solar inquiries on Instagram and Facebook",

@@ -1,5 +1,10 @@
 {
   "type": "marketing",
+  "tags": [
+    "marketing",
+    "research",
+    "document"
+  ],
   "example_prompts": [
     "Plan my next YouTube video",
     "Write a script about budget camera gear in my voice",

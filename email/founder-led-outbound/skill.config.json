@@ -1,5 +1,10 @@
 {
   "type": "email",
+  "tags": [
+    "email",
+    "research",
+    "data"
+  ],
   "example_prompts": [
     "Find UK fintechs with 50 to 200 staff that just raised and email their CTOs",
     "Fill my pipeline: B2B SaaS in the Netherlands hiring sales leaders, we sell sales training",

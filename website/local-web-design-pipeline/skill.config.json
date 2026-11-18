@@ -1,5 +1,10 @@
 {
   "type": "website",
+  "tags": [
+    "website",
+    "email",
+    "marketing"
+  ],
   "example_prompts": [
     "Find dentists in Leeds with weak websites and pitch them",
     "Build demo sites for plumbers in Manchester I can sell to",

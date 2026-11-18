@@ -1,5 +1,10 @@
 {
   "type": "slides",
+  "tags": [
+    "slides",
+    "data",
+    "document"
+  ],
   "example_prompts": [
     "Do our Q3 ops review: on-time %, cost per shipment, incidents and claims",
     "Build the quarterly review deck on our template from the ops tracker and carrier report",
